@@ -1,0 +1,6 @@
+H:\Desktop\Test-2\ConsoleApp1\New folder\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+H:\Desktop\Test-2\ConsoleApp1\New folder\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+H:\Desktop\Test-2\ConsoleApp1\New folder\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+H:\Desktop\Test-2\ConsoleApp1\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+H:\Desktop\Test-2\ConsoleApp1\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+H:\Desktop\Test-2\ConsoleApp1\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
